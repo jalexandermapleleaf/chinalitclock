@@ -1,0 +1,227 @@
+{
+  "00:00": [
+    {
+      "timePhrase": "midnight",
+      "quote": "It was midnight, and the city of Beijing lay sleeping, wrapped in darkness and dreaming of the hours to come.",
+      "book": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "rating": "★★★★★"
+    }
+  ],
+  "01:00": [
+    {
+      "timePhrase": "one o'clock",
+      "quote": "At one o'clock in the morning the lamp was burning low, and the scholar bent over his manuscripts still.",
+      "book": "Strange Tales from a Chinese Studio",
+      "author": "Pu Songling",
+      "rating": "★★★★"
+    }
+  ],
+  "02:00": [
+    {
+      "timePhrase": "two in the morning",
+      "quote": "Two in the morning and the moon had crossed half the sky, silent witness to the scholar's sleepless night.",
+      "book": "The Scholars",
+      "author": "Wu Jingzi",
+      "rating": "★★★★"
+    }
+  ],
+  "03:00": [
+    {
+      "timePhrase": "three o'clock",
+      "quote": "At three o'clock the watchman's drum echoed through the hutongs, marking the third watch of the night.",
+      "book": "Outlaws of the Marsh",
+      "author": "Shi Nai'an",
+      "rating": "★★★★★"
+    }
+  ],
+  "04:00": [
+    {
+      "timePhrase": "four in the morning",
+      "quote": "Four in the morning, and already the early risers had begun to kindle their fires and open their stalls.",
+      "book": "Jin Ping Mei",
+      "author": "Lanling Xiaoxiaosheng",
+      "rating": "★★★"
+    }
+  ],
+  "05:00": [
+    {
+      "timePhrase": "five o'clock",
+      "quote": "At five o'clock the cock crowed and the horizon began to blush pink over the eastern rooftops.",
+      "book": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "rating": "★★★★★"
+    }
+  ],
+  "06:00": [
+    {
+      "timePhrase": "six o'clock",
+      "quote": "Six o'clock, and the morning market had sprung to life with the calls of vendors and the rumble of carts.",
+      "book": "Rickshaw Boy",
+      "author": "Lao She",
+      "rating": "★★★★★"
+    }
+  ],
+  "07:00": [
+    {
+      "timePhrase": "seven in the morning",
+      "quote": "Seven in the morning and the children ran through the alley, their laughter ringing like small bells.",
+      "book": "Family",
+      "author": "Ba Jin",
+      "rating": "★★★★"
+    }
+  ],
+  "08:00": [
+    {
+      "timePhrase": "eight o'clock",
+      "quote": "At eight o'clock the offices opened and a thousand clerks bent their heads over a thousand ledgers.",
+      "book": "Midnight",
+      "author": "Mao Dun",
+      "rating": "★★★★"
+    }
+  ],
+  "09:00": [
+    {
+      "timePhrase": "nine o'clock",
+      "quote": "Nine o'clock, and the teahouse was already full, steam rising from a hundred cups of longjing.",
+      "book": "Teahouse",
+      "author": "Lao She",
+      "rating": "★★★★★"
+    }
+  ],
+  "10:00": [
+    {
+      "timePhrase": "ten o'clock",
+      "quote": "At ten o'clock the sun stood well above the rooftops and cast its full light upon the courtyard.",
+      "book": "Courtyard Cats",
+      "author": "Bing Xin",
+      "rating": "★★★★"
+    }
+  ],
+  "11:00": [
+    {
+      "timePhrase": "eleven o'clock",
+      "quote": "Eleven o'clock, and the examination hall fell silent save for the scratch of brushes on paper.",
+      "book": "The Scholars",
+      "author": "Wu Jingzi",
+      "rating": "★★★★★"
+    }
+  ],
+  "12:00": [
+    {
+      "timePhrase": "noon",
+      "quote": "At noon the sun struck the glazed tiles of the Forbidden City and they blazed like golden fire.",
+      "book": "The Last Emperor",
+      "author": "Pu Yi",
+      "rating": "★★★★"
+    }
+  ],
+  "13:00": [
+    {
+      "timePhrase": "one in the afternoon",
+      "quote": "One in the afternoon and the city drowsed, shutters half-closed against the summer heat.",
+      "book": "The Town and Its People",
+      "author": "Shen Congwen",
+      "rating": "★★★★"
+    }
+  ],
+  "14:00": [
+    {
+      "timePhrase": "two o'clock",
+      "quote": "Two o'clock, and the river traffic moved slowly, boats laden with silk gliding past the ancient waterfront.",
+      "book": "Border Town",
+      "author": "Shen Congwen",
+      "rating": "★★★★★"
+    }
+  ],
+  "15:00": [
+    {
+      "timePhrase": "three in the afternoon",
+      "quote": "At three in the afternoon the shadows began their slow turn eastward and the air smelled of rain.",
+      "book": "Red Sorghum",
+      "author": "Mo Yan",
+      "rating": "★★★★★"
+    }
+  ],
+  "16:00": [
+    {
+      "timePhrase": "four o'clock",
+      "quote": "Four o'clock, the hour when schoolchildren spilled out of their classrooms into the waiting streets.",
+      "book": "Family",
+      "author": "Ba Jin",
+      "rating": "★★★★"
+    }
+  ],
+  "17:00": [
+    {
+      "timePhrase": "five o'clock",
+      "quote": "At five o'clock the factories released their workers and the streets swelled with a tide of bicycle bells.",
+      "book": "Midnight",
+      "author": "Mao Dun",
+      "rating": "★★★★"
+    }
+  ],
+  "18:00": [
+    {
+      "timePhrase": "six in the evening",
+      "quote": "Six in the evening, and the aroma of evening rice drifted from every window and doorway in the lane.",
+      "book": "Rickshaw Boy",
+      "author": "Lao She",
+      "rating": "★★★★★"
+    }
+  ],
+  "19:00": [
+    {
+      "timePhrase": "seven o'clock",
+      "quote": "Seven o'clock, the lanterns were lit, and the story-teller's audience gathered in the square.",
+      "book": "Strange Tales from a Chinese Studio",
+      "author": "Pu Songling",
+      "rating": "★★★★★"
+    }
+  ],
+  "20:00": [
+    {
+      "timePhrase": "eight in the evening",
+      "quote": "At eight o'clock the household gathered for the evening meal, the candles reflecting their faces in warm gold.",
+      "book": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "rating": "★★★★★"
+    }
+  ],
+  "21:00": [
+    {
+      "timePhrase": "nine o'clock",
+      "quote": "Nine o'clock, and the children had been put to bed; the adults sat on the steps in the cooling air.",
+      "book": "Fortress Besieged",
+      "author": "Qian Zhongshu",
+      "rating": "★★★★★"
+    }
+  ],
+  "22:00": [
+    {
+      "timePhrase": "ten o'clock",
+      "quote": "At ten o'clock the last lights of the city winked out one by one, leaving the stars unchallenged.",
+      "book": "Fortress Besieged",
+      "author": "Qian Zhongshu",
+      "rating": "★★★★"
+    }
+  ],
+  "23:00": [
+    {
+      "timePhrase": "eleven o'clock",
+      "quote": "Eleven o'clock at night, and the poet still sat at his window, watching the moon rise over the rooftops.",
+      "book": "Complete Poems",
+      "author": "Du Fu",
+      "rating": "★★★★★"
+    }
+  ],
+  "23:59": [
+    {
+      "timePhrase": "a minute before midnight",
+      "quote": "A minute before midnight, and all the day's joys and sorrows condensed into a single held breath.",
+      "book": "Dream of the Red Chamber",
+      "author": "Cao Xueqin",
+      "rating": "★★★★★"
+    }
+  ]
+}
